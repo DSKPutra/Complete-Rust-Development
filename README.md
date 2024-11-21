@@ -1,8 +1,8 @@
-# 🦀 Awesome Rust Lang 
+# 🦀 Complete Rust Development by Dea Saka Kurnia Putra
 
 ## ⛰️ Project Description : 
 
-Welcome to the Awesome Rust Lang repository! This is a comprehensive collection of resources for Rust, a modern, safe, and fast programming language. 
+Welcome to the Complete Rust Development by Dea Saka Kurnia Putra repository! This is a comprehensive collection of resources for Rust, a modern, safe, and fast programming language. 
 
 Inside, you'll find curated articles, tutorials, books, videos, and more. It's a community-driven platform where you can contribute your favorite Rust-related resources. 
 
