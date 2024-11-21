@@ -15,7 +15,7 @@ Note: "Rustaceans" is a term often used to refer to enthusiasts and users of the
 ## 🔗 Important Resources Links
 
 - [⛰️ Introduction](Notes/introduction/README.md)
-- [🛝 Rust Playground: ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
+- [🛝 Rust Playground ](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 - [🌏 Official Website](https://www.rust-lang.org/)
 - [🛠️ Env setup](https://www.rust-lang.org/learn/get-started)
 - [🧑‍💻 Rust By Simple Example](Codes)
